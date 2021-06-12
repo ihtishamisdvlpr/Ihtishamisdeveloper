@@ -37,7 +37,7 @@ Critical thinker And identifying software issues and debugging code to approach 
 
 ### ♝ &nbsp;Social Media
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/ihtishamisdeveloper/">
   <img align="left" alt="Ahtesham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
