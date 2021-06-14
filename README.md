@@ -14,6 +14,8 @@
 Critical thinker And identifying software issues and debugging code to approach problems analytically..
 
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![CodeIgniter](https://img.shields.io/badge/-codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
 ![Mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![OOPs](https://img.shields.io/badge/-OOPs-05122A?style=flat&logo=OOPs)&nbsp;
 ![AJAX](https://img.shields.io/badge/-ajax-05122A?style=flat&logo=ajax)&nbsp;
@@ -24,7 +26,6 @@ Critical thinker And identifying software issues and debugging code to approach 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-photoshop-05122A?style=flat&logo=photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
