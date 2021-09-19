@@ -7,11 +7,8 @@
 ✉️ &nbsp;You can shoot me an email at Ihtishamisdeveloper@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1lwuulx0ByrbCt32nFnDOKw5Yie7OV03E4A_08oryh8k/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
-Critical thinker And identifying software issues and debugging code to approach problems analytically..
 
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
