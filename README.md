@@ -27,14 +27,6 @@ Critical thinker And identifying software issues and debugging code to approach 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ihtishamisdeveloper">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ihtishamisdeveloper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ihtishamisdeveloper&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### ♝ &nbsp;Social Media
 
